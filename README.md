@@ -1,7 +1,7 @@
 # Test
 
-- Please implement the website as the marked design (Please ask interviewer)
-- clone this repo and put the code into your repo
+- Please implement the page from the marked designs (Please ask interviewer)
+- clone this repo and put your code into your repo
 - Publishing it with github page
 - send a PR to this repo
 
