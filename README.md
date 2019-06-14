@@ -2,6 +2,7 @@
 
 - Please implement the website as the marked design (Please ask interviewer)
 - Publishing it with github page
+- send a PR to origi
 
 # References
 For beginners, we recommend you to spend one day to code. we recommend you to use bootstrap. And it is for sure that you can spend some time to learn related knowledge before coding.
